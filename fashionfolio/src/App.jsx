@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Fashionfolio</h1>
+      <h2>scrape the cemc website</h2>
     </>
   )
 }
